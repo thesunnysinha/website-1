@@ -8,7 +8,7 @@ Warzone's website is built with React. This ties in with Warzone's [TGM](https:/
 
 1. Setup the [API](https://github.com/WarzoneMC/api) and a Spigot server connected to the API running the [TGM](https://github.com/WarzoneMC/Warzone) plugin configured and running correctly. The API is what the website relies on to get info like player stats and match info.
 
-2. Make sure you have Node.js installed on the server. Run `yarn` (or `npm install`) to install all of the dependencies.
+2. Make sure you have Node.js installed on the server.Then,Run `yarn` (or `npm install`) to install all of the dependencies.
 
 3. Create a `config.json` file **in the src/ directory** that looks like this:
 
